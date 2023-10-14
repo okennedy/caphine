@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Caphine
+Comment=Inhibit Screensaver
+Icon=document-properties
+Exec=gnome-session-inhibit zenity --info --text="Inhibiting Screensaver."
+Type=Application
+Categories=GNOME;GTK;Utility
+X-Purism-FormFactor=Workstation;Mobile;
+Keywords=Sleep;Caffeine
